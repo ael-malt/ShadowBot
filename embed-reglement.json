@@ -1,0 +1,22 @@
+{
+  "content": null,
+  "embeds": [{
+      "title": "<:IconFriends:840564687418163230> Introduzione",
+      "description": "<:Blue_diamond:840564527413985330> Benvenuto in 𝐒𝐡𝐚𝐝𝐨𝐰𝐅𝐚𝐦𝐢𝐥𝐲! \n<:Blue_diamond:840564527413985330> Riceverai una notifica non appena trasmetterò in streamingㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "color": "BLACK",
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/840163655495581726/840164226102198292/mascotte.vide.png"
+      }
+    },
+    {
+      "title": "<:IconRulesChannel:840564537140838400> Regolamento",
+      "description": "<:Blue_diamond:840564527413985330> Niente spam/allagamento\n<:Blue_diamond:840564527413985330> Evita commenti odiosi, razzisti, omofobici...\n<:Blue_diamond:840564527413985330> Nessun contenuto pornografico/osceno\n<:Blue_diamond:840564527413985330> Rispetta il tema dei salotti testuali\n<:Blue_diamond:840564527413985330> La pubblicità è vietata (se non con il consenso di un moderatore)\n<:Blue_diamond:840564527413985330> In caso di problemi, non esitate a contattare un moderatoreㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "color": "BLACK"
+    },
+    {
+      "title": "<:BadeServerVerifiedDark:840564235787436043> Verifica",
+      "description": "<:Blue_diamond:840564527413985330> Controlla la reazione <:Blue_Check:840564507326808084> sotto questo messaggio per ottenere il ruolo <@&869625138667221002> e avere accesso al server\n<:Blue_diamond:840564527413985330> Goditi il ​​tuo soggiorno sul server",
+      "color": "BLACK"
+    }
+  ]
+}
